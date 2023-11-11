@@ -15,11 +15,6 @@
   "author": "KettleMC_NET",
   "files": [
     {
-      "projectID": 263466,
-      "fileID": 3728380,
-      "required": true
-    },
-    {
       "projectID": 240630,
       "fileID": 2728585,
       "required": true
@@ -342,11 +337,6 @@
     {
       "projectID": 74924,
       "fileID": 2713386,
-      "required": true
-    },
-    {
-      "projectID": 317780,
-      "fileID": 3732792,
       "required": true
     },
     {
