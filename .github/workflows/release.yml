@@ -13,6 +13,9 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v2
 
+      - name: Grant execute permission to compile.sh
+        run: chmod +x ./compile.sh
+
       - name: Run compile.sh
         run: ./compile.sh
 
