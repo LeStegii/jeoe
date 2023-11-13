@@ -31,16 +31,15 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
-key_of.key.zoom:46:NONE
-key_keybind.baublesinventory:48:NONE
+key_keybind.baublesinventory:23:NONE
 key_key.davincis.up:45:NONE
 key_key.davincis.down:44:NONE
 key_key.davincis.brake:0:NONE
 key_key.davincis.align:13:NONE
 key_key.davincis.decompile:43:NONE
 key_key.davincis.shipinv:37:NONE
-key_key.ebwizardry.next_spell:49:NONE
-key_key.ebwizardry.previous_spell:48:NONE
+key_key.ebwizardry.next_spell:24:NONE
+key_key.ebwizardry.previous_spell:25:NONE
 key_key.ebwizardry.spell_1:2:ALT
 key_key.ebwizardry.spell_2:3:ALT
 key_key.ebwizardry.spell_3:4:ALT
@@ -49,12 +48,12 @@ key_key.ebwizardry.spell_5:6:ALT
 key_key.ebwizardry.spell_6:7:ALT
 key_key.ebwizardry.spell_7:8:ALT
 key_key.ebwizardry.spell_8:9:ALT
-key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.nbt:0:NONE
 key_key.ftbutilities.trash:211:NONE
 key_key.fart.desc:34:NONE
-key_[GC] Galaxy Map:0:NONE
-key_[GC] Open Spaceship Inventory:33:NONE
-key_[GC] Toggle Sensor Goggles Mode:37:NONE
+key_Galaxy Map:49:NONE
+key_Open Spaceship Inventory:23:ALT
+key_Toggle Sensor Goggles Mode:37:ALT
 key_Dragons Breath:35:NONE
 key_Teleport:34:NONE
 key_key.aim:56:NONE
@@ -65,9 +64,8 @@ key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
-key_key.toastcontrol.clear:36:NONE
 key_bbw.key.mode:0:NONE
-key_bbw.key.fluidmode:33:NONE
+key_bbw.key.fluidmode:0:NONE
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0:NONE
@@ -81,7 +79,7 @@ key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
 key_key.clienttweaks.disable_step_assist:0:NONE
 key_key.clienttweaks.hide_offhand_item:0:NONE
-key_key.cofh.multimode:47:NONE
+key_key.cofh.multimode:0:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
 key_key.craftingtweaks.balance:0:NONE
@@ -98,13 +96,13 @@ key_key.craftingtweaks.decompressAll:0:NONE
 key_key.craftingtweaks.refill_last:15:NONE
 key_key.craftingtweaks.refill_last_stack:15:NONE
 key_key.dragon.breath:19:NONE
-key_key.dragon.cancelhover:48:NONE
-key_key.dragon.projectile:45:NONE
+key_key.dragon.cancelhover:0:NONE
+key_key.dragon.projectile:0:NONE
 key_key.dragon.followYaw:49:NONE
 key_key.dragon.lockY:0:NONE
 key_key.dragon.f7:65:NONE
 key_key.dragon.boost:29:NONE
-key_key.dragon.dismount:45:NONE
+key_key.dragon.dismount:0:NONE
 key_key.dragon.down:56:NONE
 key_waila.keybind.wailaconfig:82:NONE
 key_waila.keybind.wailadisplay:79:NONE
@@ -112,27 +110,12 @@ key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
 key_invtweaks.key.sort:19:NONE
-key_gui.xaero_switch_waypoint_set:0:NONE
-key_gui.xaero_instant_waypoint:78:NONE
-key_gui.xaero_toggle_slime:0:NONE
-key_gui.xaero_toggle_grid:0:NONE
-key_gui.xaero_toggle_waypoints:0:NONE
-key_gui.xaero_toggle_map_waypoints:0:NONE
-key_gui.xaero_toggle_map:0:NONE
-key_gui.xaero_enlarge_map:44:NONE
-key_gui.xaero_waypoints_key:22:NONE
-key_gui.xaero_zoom_in:0:NONE
-key_gui.xaero_zoom_out:0:NONE
-key_gui.xaero_new_waypoint:48:NONE
-key_gui.xaero_display_all_sets:0:NONE
-key_gui.xaero_toggle_light_overlay:0:NONE
-key_gui.xaero_toggle_entity_radar:0:NONE
-key_gui.xaero_reverse_entity_radar:0:NONE
-key_gui.xaero_minimap_settings:21:NONE
-key_gui.xaero_open_map:50:NONE
-key_gui.xaero_open_settings:27:NONE
-key_gui.xaero_map_zoom_in:0:NONE
-key_gui.xaero_map_zoom_out:0:NONE
-key_gui.xaero_quick_confirm:54:NONE
-key_key.control:29:NONE
+key_key.minimap.voxelmapmenu:50:NONE
+key_key.minimap.waypointmenu:0:NONE
+key_key.minimap.zoom:0:NONE
+key_key.minimap.togglefullscreen:45:NONE
+key_key.minimap.waypointhotkey:21:NONE
+key_key.minimap.togglemobs:0:NONE
+key_key.minimap.toggleingamewaypoints:0:NONE
+key_key.control:157:NONE
 key_key.secretroomsmod.oneWayface:43:NONE
